@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說父母恩難報經
+#+DATE: 2015-08-30 20:17:24.732029
+#+PROPERTY: JUAN 0
