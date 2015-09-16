@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:24.550414
+#+DATE: 2015-08-30 20:17:25.613242
 #+TITLE: 佛說父母恩難報經
 #+PROPERTY: CBETA_ID T16n0684
 #+PROPERTY: ID KR6i0363
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 684
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0363_T_000-0778c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0363_T_001-0778c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.684¶
-
- 《佛說父母恩難報經》¶
+No. 684¶
+《佛說父母恩難報經》¶
 ¶
 後漢安息國三藏安世高譯¶
 
